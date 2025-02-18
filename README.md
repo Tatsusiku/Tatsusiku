@@ -2,7 +2,7 @@
 - 👀 I’m interested in repair of electric scooters
 - 🌱 I’m currently learning pyton
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 I'm I make powerful batteries for various equipment
 
 <!---
 Tatsusiku/Tatsusiku is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
